@@ -2,3 +2,5 @@ git add
 git status
 git commit -m "teszt modositas"
 
+git remote add origin https://github.com/stevecrk/github-teszt
+
